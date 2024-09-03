@@ -1,0 +1,9 @@
+.todotable-table {
+  display: flex;
+  padding-top: 5%;
+}
+
+.todotable-checkbox {
+  display: flex;
+  justify-content: center;
+}
